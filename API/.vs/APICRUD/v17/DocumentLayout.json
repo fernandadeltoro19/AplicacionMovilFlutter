@@ -1,0 +1,265 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|c:\\users\\pepec\\downloads\\proyectos riojas\\flutterriojas\\api\\api crud\\controllers\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\detallepedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\controllers\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\controllers\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\pedidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\api crud\\migrations\\20240518004102_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7156C62B-ABB1-44D2-897F-8DE295CF3EE7}|API CRUD\\API CRUD.csproj|solutionrelative:api crud\\migrations\\20240518004102_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Usuario.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Usuario.cs",
+              "RelativeToolTip": "API CRUD\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T23:07:14.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Producto.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Producto.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Producto.cs",
+              "RelativeToolTip": "API CRUD\\Producto.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:31:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "API CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\appsettings.json",
+              "RelativeToolTip": "API CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-18T00:25:05.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\PedidoController.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\PedidoController.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\PedidoController.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\PedidoController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowFoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:28:01.553Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Usuario.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\Usuario.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Usuario.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\Usuario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:32:20.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetallePedidoController.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\DetallePedidoController.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\DetallePedidoController.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\DetallePedidoController.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\DetallePedidoController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:20:43.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Cliente.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\Cliente.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Cliente.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\Cliente.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAwwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T02:58:24.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "API CRUD\\DetallePedido.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\DetallePedido.cs",
+              "RelativeToolTip": "API CRUD\\DetallePedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T23:19:52.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Pedido.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Pedido.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Pedido.cs",
+              "RelativeToolTip": "API CRUD\\Pedido.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:31:28.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\ProductoController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAwwHoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:31:55.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Categoria.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Controllers\\Categoria.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Controllers\\Categoria.cs",
+              "RelativeToolTip": "API CRUD\\Controllers\\Categoria.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAwwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T00:15:33.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Program.cs",
+              "RelativeToolTip": "API CRUD\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:15:42.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API CRUD\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API CRUD\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T21:38:46.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240518004102_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Migrations\\20240518004102_InitialCreate.cs",
+              "RelativeDocumentMoniker": "API CRUD\\Migrations\\20240518004102_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\Migrations\\20240518004102_InitialCreate.cs",
+              "RelativeToolTip": "API CRUD\\Migrations\\20240518004102_InitialCreate.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:41:02.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\DataContext.cs",
+              "RelativeDocumentMoniker": "API CRUD\\DataContext.cs",
+              "ToolTip": "C:\\Users\\pepec\\Downloads\\PROYECTOS RIOJAS\\FlutterRiojas\\API\\API CRUD\\DataContext.cs",
+              "RelativeToolTip": "API CRUD\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-18T00:30:08.603Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
